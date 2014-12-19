@@ -1,3 +1,17 @@
-# Craft Storage (cache) [http://buildwithcraft.com/help/craft-storage-gitignore]
-/craft/storage/*
-!/craft/storage/logo/*
+# Craft Directories
+craft/app
+craft/config
+craft/plugins
+craft/storage
+craft/.htaccess
+craft/web.config
+.htaccess
+index.php
+robots.txt
+web.config
+
+# Node Modules
+node_modules
+
+# Compiled Files
+html
