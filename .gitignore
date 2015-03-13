@@ -1,10 +1,14 @@
+.DS_Store
+
 # Craft Directories
+craft/.DS_Store
 craft/app
 craft/config
 craft/plugins
 craft/storage
 craft/.htaccess
 craft/web.config
+public
 .htaccess
 index.php
 robots.txt
